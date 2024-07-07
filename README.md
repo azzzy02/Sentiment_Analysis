@@ -2,11 +2,11 @@
 This Machine Learning project using python programming delves into the realm of sentiment analysis, specifically targeting tweets harvested from the Twitter platform. It employs a multifaceted approach to extract, clean, analyze, and visualize sentiment within tweets, providing valuable insights into public opinion.
 For the detailed description and procedure of the project, please refer the document Sentiment_Analysis.docx
 
-#######################################################################################################
-#############################    sentiment analysis readme_file    ####################################
+#########################################################
+#########    sentiment analysis readme_file    ##########
 #####Input_details:
 ##change my_user
 ##change my_pass
 ##redefine your search_item
 ##change your webdriver details
-#######################################################################################################
+#########################################################
